@@ -1,2 +1,1 @@
-# Visual-Data-Processing
-# Please go different branches to access
+# DCT and FFT
